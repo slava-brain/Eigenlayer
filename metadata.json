@@ -2,6 +2,6 @@
   "name": "Eigenlayer ETH",
   "website": "www.example.com",
   "description": "I operate on some data",
-  "logo": "[url=https://ibb.co/dM0qjSw][img]https://i.ibb.co/PjZnFRv/eigenlayer-logo.png[/img][/url]",
+  "logo": [url=https://ibb.co/dM0qjSw][img]https://i.ibb.co/PjZnFRv/eigenlayer-logo.png[/img][/url],
   "twitter": "https://twitter.com/jqiTAe8Uo5tBUoy"
 }
